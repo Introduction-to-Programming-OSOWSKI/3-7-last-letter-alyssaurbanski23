@@ -1,9 +1,7 @@
 def lastLetter(minnesota):
      
-     for i in range(0, len(w)):
+     for i in range(0, len(minnesota)):
         if w[i] == "a":
-            return True
 
-        return False
-
+            
 print (lastLetter(minnesota))
